@@ -93,3 +93,7 @@ E:\w2\obj\Debug\w2.csproj.AssemblyReference.cache
 E:\w2\obj\Debug\w2.csproj.CoreCompileInputs.cache
 E:\w2\obj\Debug\w2.dll
 E:\w2\obj\Debug\w2.pdb
+C:\Users\Admin\source\repos\Ranoosan\Tech_Shop\obj\Debug\w2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ranoosan\Tech_Shop\obj\Debug\w2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ranoosan\Tech_Shop\obj\Debug\w2.dll
+C:\Users\Admin\source\repos\Ranoosan\Tech_Shop\obj\Debug\w2.pdb

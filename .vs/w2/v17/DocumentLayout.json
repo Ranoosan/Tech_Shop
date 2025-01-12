@@ -1,165 +1,165 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Msi\\source\\repos\\w2\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|c:\\users\\admin\\source\\repos\\ranoosan\\tech_shop\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\vieworders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\vieworders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:vieworders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\orderecieved.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\orderecieved.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:orderecieved.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\viewsuppliers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\viewsuppliers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:viewsuppliers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:supplier1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\inventorymanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\inventorymanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:inventorymanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\viewsupplier1orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\viewsupplier1orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:viewsupplier1orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:manageorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\editproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\editproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:editproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\compareproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\compareproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:compareproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|c:\\users\\msi\\source\\repos\\w2\\editproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\editproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:editproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\productlist1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\productlist1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:productlist1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\inventorymanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\inventorymanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:inventorymanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\viewsupplier1orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\viewsupplier1orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:viewsupplier1orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\productlist1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\productlist1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:productlist1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:supplier1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\compareproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\compareproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:compareproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\vieworders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\vieworders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:vieworders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\orderplacement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\orderplacement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:orderplacement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\orderplacement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\orderplacement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:orderplacement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\orderecieved.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\orderecieved.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:orderecieved.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:manageorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:adminpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:adminpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\addproduct2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\addproduct2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:addproduct2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\supplier2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:supplier2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\viewsupplier2orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\viewsupplier2orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:viewsupplier2orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\productlist2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\productlist2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:productlist2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\inventorymanagement1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\inventorymanagement1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:inventorymanagement1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\editproduct1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\editproduct1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:editproduct1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\inventorymanagement1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\inventorymanagement1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:inventorymanagement1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\editproduct1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\editproduct1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:editproduct1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\inventorymanagement.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\inventorymanagement.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:inventorymanagement.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\productlist2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\productlist2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:productlist2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Msi\\source\\repos\\w2\\viewsupplier2orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\viewsupplier2orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F7BC7A-B959-4048-9313-C1951D23C8C3}|w2.csproj|solutionrelative:viewsupplier2orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -176,87 +176,81 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ViewSupplier1Orders.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier1Orders.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier1Orders.aspx",
               "RelativeDocumentMoniker": "ViewSupplier1Orders.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier1Orders.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier1Orders.aspx",
               "RelativeToolTip": "ViewSupplier1Orders.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-18T17:28:21.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:28:21.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "InventoryManagement.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx",
               "RelativeDocumentMoniker": "InventoryManagement.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx",
               "RelativeToolTip": "InventoryManagement.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-21T04:02:43.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T04:02:43.208Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ViewOrders.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewOrders.aspx",
               "RelativeDocumentMoniker": "ViewOrders.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewOrders.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewOrders.aspx",
               "RelativeToolTip": "ViewOrders.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-18T17:21:05.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:21:05.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Orderecieved.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Orderecieved.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Orderecieved.aspx",
               "RelativeDocumentMoniker": "Orderecieved.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Orderecieved.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Orderecieved.aspx",
               "RelativeToolTip": "Orderecieved.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-25T07:11:36.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T07:11:36.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "supplier1.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx",
               "RelativeDocumentMoniker": "supplier1.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx",
               "RelativeToolTip": "supplier1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-18T17:45:46.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:45:46.467Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ViewSuppliers.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSuppliers.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSuppliers.aspx",
               "RelativeDocumentMoniker": "ViewSuppliers.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSuppliers.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSuppliers.aspx",
               "RelativeToolTip": "ViewSuppliers.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-18T17:52:20.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:52:20.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddProduct.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct.aspx",
               "RelativeDocumentMoniker": "AddProduct.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct.aspx",
               "RelativeToolTip": "AddProduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -267,74 +261,69 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "manageorders.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx",
               "RelativeDocumentMoniker": "manageorders.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx",
               "RelativeToolTip": "manageorders.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-25T08:01:56.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T08:01:56.284Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EditProduct.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct.aspx",
               "RelativeDocumentMoniker": "EditProduct.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct.aspx",
               "RelativeToolTip": "EditProduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-19T06:30:43.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:30:43.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CompareProducts.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\CompareProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\CompareProducts.aspx",
               "RelativeDocumentMoniker": "CompareProducts.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\CompareProducts.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\CompareProducts.aspx",
               "RelativeToolTip": "CompareProducts.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-19T06:04:02.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:04:02.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Login.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Login.aspx",
               "RelativeToolTip": "Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-21T02:37:40.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:37:40.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "EditProduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct.aspx.cs",
               "RelativeDocumentMoniker": "EditProduct.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct.aspx.cs",
               "RelativeToolTip": "EditProduct.aspx.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:31:22.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:31:22.904Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ProductList1.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList1.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList1.aspx",
               "RelativeDocumentMoniker": "ProductList1.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList1.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList1.aspx",
               "RelativeToolTip": "ProductList1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -344,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "InventoryManagement.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx.cs",
               "RelativeDocumentMoniker": "InventoryManagement.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx.cs",
               "RelativeToolTip": "InventoryManagement.aspx.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAYwLwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ViewSupplier1Orders.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier1Orders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier1Orders.aspx.cs",
               "RelativeDocumentMoniker": "ViewSupplier1Orders.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier1Orders.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier1Orders.aspx.cs",
               "RelativeToolTip": "ViewSupplier1Orders.aspx.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ProductList1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList1.aspx.cs",
               "RelativeDocumentMoniker": "ProductList1.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList1.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList1.aspx.cs",
               "RelativeToolTip": "ProductList1.aspx.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,9 +369,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "AddProduct.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct.aspx.cs",
               "RelativeDocumentMoniker": "AddProduct.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct.aspx.cs",
               "RelativeToolTip": "AddProduct.aspx.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAowIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "supplier1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx.cs",
               "RelativeDocumentMoniker": "supplier1.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\supplier1.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier1.aspx.cs",
               "RelativeToolTip": "supplier1.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "CompareProducts.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\CompareProducts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\CompareProducts.aspx.cs",
               "RelativeDocumentMoniker": "CompareProducts.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\CompareProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\CompareProducts.aspx.cs",
               "RelativeToolTip": "CompareProducts.aspx.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAkwLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,9 +405,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ViewOrders.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewOrders.aspx.cs",
               "RelativeDocumentMoniker": "ViewOrders.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewOrders.aspx.cs",
               "RelativeToolTip": "ViewOrders.aspx.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,9 +417,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "OrderPlacement.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\OrderPlacement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\OrderPlacement.aspx.cs",
               "RelativeDocumentMoniker": "OrderPlacement.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\OrderPlacement.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\OrderPlacement.aspx.cs",
               "RelativeToolTip": "OrderPlacement.aspx.cs",
               "ViewState": "AgIAAJYAAAAAAAAAAAAowMgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,9 +429,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "OrderPlacement.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\OrderPlacement.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\OrderPlacement.aspx",
               "RelativeDocumentMoniker": "OrderPlacement.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\OrderPlacement.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\OrderPlacement.aspx",
               "RelativeToolTip": "OrderPlacement.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -452,9 +441,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Orderecieved.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Orderecieved.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Orderecieved.aspx.cs",
               "RelativeDocumentMoniker": "Orderecieved.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Orderecieved.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Orderecieved.aspx.cs",
               "RelativeToolTip": "Orderecieved.aspx.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -464,9 +453,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "manageorders.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx.cs",
               "RelativeDocumentMoniker": "manageorders.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\manageorders.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\manageorders.aspx.cs",
               "RelativeToolTip": "manageorders.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -476,9 +465,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "AdminPage.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\AdminPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AdminPage.aspx",
               "RelativeDocumentMoniker": "AdminPage.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\AdminPage.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AdminPage.aspx",
               "RelativeToolTip": "AdminPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -488,9 +477,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "AdminPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\AdminPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AdminPage.aspx.cs",
               "RelativeDocumentMoniker": "AdminPage.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\AdminPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AdminPage.aspx.cs",
               "RelativeToolTip": "AdminPage.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,9 +489,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "AddProduct2.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct2.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct2.aspx",
               "RelativeDocumentMoniker": "AddProduct2.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\AddProduct2.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\AddProduct2.aspx",
               "RelativeToolTip": "AddProduct2.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -512,9 +501,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "supplier2.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\supplier2.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier2.aspx",
               "RelativeDocumentMoniker": "supplier2.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\supplier2.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\supplier2.aspx",
               "RelativeToolTip": "supplier2.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -524,9 +513,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -537,9 +526,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Login.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Login.aspx.cs",
               "RelativeToolTip": "Login.aspx.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,9 +538,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ViewSupplier2Orders.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier2Orders.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier2Orders.aspx",
               "RelativeDocumentMoniker": "ViewSupplier2Orders.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier2Orders.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier2Orders.aspx",
               "RelativeToolTip": "ViewSupplier2Orders.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -561,9 +550,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ProductList2.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList2.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList2.aspx",
               "RelativeDocumentMoniker": "ProductList2.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList2.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList2.aspx",
               "RelativeToolTip": "ProductList2.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -573,9 +562,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "InventoryManagement1.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement1.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement1.aspx",
               "RelativeDocumentMoniker": "InventoryManagement1.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement1.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement1.aspx",
               "RelativeToolTip": "InventoryManagement1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -585,9 +574,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "EditProduct1.aspx",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct1.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct1.aspx",
               "RelativeDocumentMoniker": "EditProduct1.aspx",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct1.aspx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct1.aspx",
               "RelativeToolTip": "EditProduct1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -597,9 +586,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "InventoryManagement1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement1.aspx.cs",
               "RelativeDocumentMoniker": "InventoryManagement1.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement1.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement1.aspx.cs",
               "RelativeToolTip": "InventoryManagement1.aspx.cs",
               "ViewState": "AgIAAI8AAAAAAAAAAAAQwLoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,9 +598,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "EditProduct1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct1.aspx.cs",
               "RelativeDocumentMoniker": "EditProduct1.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\EditProduct1.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\EditProduct1.aspx.cs",
               "RelativeToolTip": "EditProduct1.aspx.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAIwGwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,9 +610,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "InventoryManagement.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx.designer.cs",
               "RelativeDocumentMoniker": "InventoryManagement.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\InventoryManagement.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\InventoryManagement.aspx.designer.cs",
               "RelativeToolTip": "InventoryManagement.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,9 +622,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "ProductList2.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList2.aspx.cs",
               "RelativeDocumentMoniker": "ProductList2.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ProductList2.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ProductList2.aspx.cs",
               "RelativeToolTip": "ProductList2.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,9 +634,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\Site1.Master",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\Site1.Master",
               "RelativeToolTip": "Site1.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -658,9 +647,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "ViewSupplier2Orders.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier2Orders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier2Orders.aspx.cs",
               "RelativeDocumentMoniker": "ViewSupplier2Orders.aspx.cs",
-              "ToolTip": "C:\\Users\\Msi\\source\\repos\\w2\\ViewSupplier2Orders.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Ranoosan\\Tech_Shop\\ViewSupplier2Orders.aspx.cs",
               "RelativeToolTip": "ViewSupplier2Orders.aspx.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAUwCoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
